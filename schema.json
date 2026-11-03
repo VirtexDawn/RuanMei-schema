@@ -1,3 +1,14 @@
 {
-  "Miaw": "miaw"
+  "players": {
+    "id": 0,
+    "userid": 0,
+    "username": "Username",
+    "role": 0,
+    "inventory": [],
+    "statistics": {}
+  },
+  "config": {
+    "active": false,
+    "bannedids": []
+  }
 }
