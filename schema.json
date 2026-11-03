@@ -1,9 +1,9 @@
 {
   "players": {
-    "id": 0,
-    "userid": 0,
-    "username": "Username",
-    "role": 0,
+    "id": { "Type": "string" },
+    "userid": { "Type": "number" },
+    "username": { "Type": "string" },
+    "role": { "Type": "number" },
     "inventory": [],
     "statistics": {}
   },
